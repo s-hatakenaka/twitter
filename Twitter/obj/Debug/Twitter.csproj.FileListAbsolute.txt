@@ -1,0 +1,10 @@
+c:\users\tosbac\documents\visual studio 2015\Projects\Twitter\Twitter\bin\Debug\Twitter.exe.config
+c:\users\tosbac\documents\visual studio 2015\Projects\Twitter\Twitter\obj\Debug\Twitter.csprojResolveAssemblyReference.cache
+c:\users\tosbac\documents\visual studio 2015\Projects\Twitter\Twitter\bin\Debug\Twitter.exe
+c:\users\tosbac\documents\visual studio 2015\Projects\Twitter\Twitter\bin\Debug\Twitter.pdb
+c:\users\tosbac\documents\visual studio 2015\Projects\Twitter\Twitter\bin\Debug\CoreTweet.dll
+c:\users\tosbac\documents\visual studio 2015\Projects\Twitter\Twitter\bin\Debug\Newtonsoft.Json.dll
+c:\users\tosbac\documents\visual studio 2015\Projects\Twitter\Twitter\bin\Debug\CoreTweet.xml
+c:\users\tosbac\documents\visual studio 2015\Projects\Twitter\Twitter\bin\Debug\Newtonsoft.Json.xml
+c:\users\tosbac\documents\visual studio 2015\Projects\Twitter\Twitter\obj\Debug\Twitter.exe
+c:\users\tosbac\documents\visual studio 2015\Projects\Twitter\Twitter\obj\Debug\Twitter.pdb
